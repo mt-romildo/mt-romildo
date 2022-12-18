@@ -17,10 +17,12 @@ Here are some ideas to get you started:
 -->
 ## Ferramentas e Tecnologias
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="40" height="40">
-<img src="https://img.icons8.com/color/512/linux--v1.png" width="40" height="40" />
-<img src="https://img.icons8.com/color/512/html-5--v1.png" width="40" height="40" />
-<img src="https://img.icons8.com/color/512/css3.png" width="40" height="40" />
+<div style="display: grid;    align-content: center;">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="40" height="40">
+    <img src="https://img.icons8.com/color/512/linux--v1.png" width="40" height="40" />
+    <img src="https://img.icons8.com/color/512/html-5--v1.png" width="40" height="40" />
+    <img src="https://img.icons8.com/color/512/css3.png" width="40" height="40" />
+ </div>
 
 
 
