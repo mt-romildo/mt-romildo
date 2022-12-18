@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Ferramentas e Tecnologias
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="40" height="40">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" width="40" height="40" fill="yellow" />
+<img src="https://img.icons8.com/color/512/linux--v1.png" width="40" height="40" />
 
 
 
