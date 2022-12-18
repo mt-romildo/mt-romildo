@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 ## Olá devs!! 👋 
 
 <!--
@@ -16,7 +17,7 @@ Here are some ideas to get you started:
 -->
 ## Ferramentas e Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" pading="10px" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="40" height="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" width="40" height="40" />
 
 
@@ -24,6 +25,6 @@ Here are some ideas to get you started:
 
 <div>
 <a href="https://github.com/mt-romildo">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mt-romildo&layout=compact&langs_count=7&theme=github_dark"/>
+<i class="devicon-linux-plain"></i>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mt-romildo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
