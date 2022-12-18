@@ -1,6 +1,6 @@
 ## Romildo Rodrigues
 <div style="display: grid;    align-content: center;">
- <div style="float:right;"> <img src="https://img.icons8.com/clouds/512/linux-client.png" width="70" height="70"/></div>
+ <div style="right: 20px;"> <img src="https://img.icons8.com/clouds/512/linux-client.png" width="100px" height="100px"/></div>
 </div>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
